@@ -8,11 +8,11 @@ export default function HeroSection() {
           <div className="hero-text">
             <span className="hero-kicker">Commercial cleaning specialists</span>
             <h1 className="hero-headline">
-              Professional Cleaning in Port Harcourt You Can Trust
+              Professional Cleaning in Warri You Can Trust
             </h1>
             <p className="hero-subheadline">
               Enterprise-grade cleaning solutions for offices, facilities, and businesses.
-              From daily maintenance to specialized commercial contracts, Helcon delivers
+              From daily maintenance to specialized commercial contracts, our team delivers
               reliability, consistency, and excellence.
             </p>
 

@@ -6,7 +6,7 @@ export default function Navbar() {
       <div className="navbar-container">
         {/* Logo */}
         <div className="navbar-logo">
-          <img src="/images/logoo.png" alt="HelCon Logo" className="logo-image" />
+          <img src="/images/logoo.png" alt="Company logo" className="logo-image" />
         </div>
 
         {/* Navigation Links */}

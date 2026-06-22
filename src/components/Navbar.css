@@ -1,6 +1,6 @@
 /* Navbar Styling */
 .navbar {
-  background: rgba(235, 246, 255, 0.88);
+  background: white;
   box-shadow: 0 10px 30px rgba(0, 58, 128, 0.08);
   position: sticky;
   top: 0;
